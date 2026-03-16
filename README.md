@@ -1,6 +1,6 @@
 # Certificates
 
-This repository contains my professional certificates from courses, workshops, and technical training in data science, analytics, machine learning, and related fields. It serves as a collection of my continuous learning, technical development, and skill-building journey. :contentReference[oaicite:0]{index=0}
+This repository contains my professional certificates from courses, workshops, and technical training in data science, analytics, machine learning, and related fields. It serves as a collection of my continuous learning, technical development, and skill-building journey. 
 
 ## Contents
 
